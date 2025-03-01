@@ -19,7 +19,7 @@ To run this program, you need **Python 3+** and SQLite installed on your system.
 ### 1. Clone the Repository
 ```sh
 git clone https://github.com/jake00o/moviesProject1
-cd movie-list-program
+cd moviesProject1
 ```
 
 ### 2. Install Dependencies
